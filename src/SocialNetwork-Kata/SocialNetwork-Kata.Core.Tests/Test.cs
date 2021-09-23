@@ -10,6 +10,7 @@ namespace SocialNetwork_Kata.Core.Tests
 	[TestFixture]
 	public class Test
 	{
+		//
 		[SetUp]
 		public void Setup()
 		{
